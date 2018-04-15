@@ -1,2 +1,2 @@
 # hello-world
-where the world finds its essance !
+where the world finds it's essance !
